@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//This is the new feature
 Console.WriteLine("This is an awesome app!");
